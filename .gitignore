@@ -50,3 +50,6 @@ makefont
 /.vs
 /out
 /glfw-3.2.1*
+
+zig-cache/
+zig-out/
